@@ -1,7 +1,8 @@
 ## Welcome to TwoBosu Pages
 
-Please click to enter mingyues online store:https://www.mingyues.com.
+## Please click to enter <a href="https://www.mingyues.com" target="_blank"> mingyues online store</a>
 
-## Dear customer friends! Thank you very much for your visit. Have a nice shopping trip! 
+## Dear customer friends! 
 
-Thank you!
+## Thank you very much for your visit. Have a nice shopping trip! 
+
